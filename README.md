@@ -1,1 +1,1 @@
-# Li-Batt: A parameter Library for control and estimation of lithium-ion Battries
+# BatteryZoo: A parameter library for control and estimation of lithium-ion battries
